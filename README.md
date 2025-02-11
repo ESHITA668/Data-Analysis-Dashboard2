@@ -1,2 +1,26 @@
-# Data-Analysis-Dashboard2
-I developed a comprehensive project in Excel , creating multiple dashboards and tables to analyze the data. This process involved several stages ,including data preprocessing, data cleaning, and data visualization.
+# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## project Objective
+The Vrinda store wants to create an annual sales report for 2023.so that owner of the  Vrinda store can understand their customers and grow more sales in 2024 & 2025.
+##Dataset used
+-<a herf="https://github.com/ESHITA668/Data-Analysis-Dashboard2/blob/main/Vrinda%20Store%20Data%20Analysis%20.xlsx">Dataset</a>
+## Questions [KPIs] 
+-compare the sales and orders using single chart?
+-which month got the highest sales and orders?
+-who purchased more men or women in 2023?
+-what are different order status in 2023.
+-list top 10 states Contributing to the sales?
+-Relation between age and gender based or number of orders.
+-Which channel is contributing to maximum sales?
+-Highest Selling Category?
+-Percentage of Total Orders delivered.
+
+-Dashboard Interaction <a herf="https://github.com/ESHITA668/Data-Analysis-Dashboard2/blob/main/dashboard.jpg">View Dashboard</a>
+
+## Process
+-verfy data for any missing values and anomalies,and sort out the same.
+-Made sure data is consitent and clean with respect to data type,data format and values used.
+-Created pivot tables according to the questions asked.
+-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+![dashboard](https://github.com/user-attachments/assets/17d7582b-76a5-45a8-a4c3-a16236e0633b)
+
