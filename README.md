@@ -30,5 +30,5 @@ The Vrinda store wants to create an annual sales report for 2023.so that owner o
 - The maximum numbers of products customer orders from Amazon,Flipkart and Myntra channels .
 - More than 90% of the products delivered.
 ## Final Conclusion:
-To improve the sales of Vrinda store, a strategic marketing plan focused on women aged 30_49 years residing in maharashtra,Karnataka,and uttar pradesh should be implemented.The demographic represents a key consumer segment,as they often make significant household and lifestyle purchases.The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention. 
+To improve the sales of Vrinda store, a strategic marketing plan focused on women aged 30-49 years residing in maharashtra,Karnataka,and uttar pradesh should be implemented.The demographic represents a key consumer segment,as they often make significant household and lifestyle purchases.The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention. 
 
